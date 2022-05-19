@@ -1,5 +1,5 @@
 # Django-REST-API-Anime
- Personal REST API for Anime series, returns a multitude of information including ratin, synopsis and more
+ Personal REST API for Anime
 
 Example on Postman: 
 Searching for "shingeki no kyojin", returns the db's id, anime id, type, title, synopsis, episode number, score, scored by x people, ranking, popularity and myanimelist URL
